@@ -1,0 +1,43 @@
+/* styles do criador */
+
+body {
+    text-align: center;
+    background-color: #2f2f2f;
+}
+
+.nav-link:hover {
+    color: tomato;
+    font-size: large;
+}
+
+.offcanvas {
+    background-color: rgba(147, 147, 147, 0.908);;
+}
+
+.offcanvas-header {
+    background-color: tomato;
+}
+
+h3 {
+    background-color: rgba(147, 147, 147, 0.908);
+    border: 3px solid #ffbb27;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#ind {
+    font-size: 20px;
+}
+
+.alert {
+    background-color: #ffbb27;
+    border: none;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}

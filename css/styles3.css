@@ -1,0 +1,65 @@
+/* styles do anime */
+
+.navbar {
+    background-color: tomato;
+}
+
+.nav-link:hover {
+    color: tomato;
+    font-size: large;
+}
+
+.offcanvas {
+    background-color: rgba(147, 147, 147, 0.908);;
+}
+
+.offcanvas-header {
+    background-color: tomato;
+}
+
+body {
+    text-align: center;
+    background-color: #2f2f2f;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    padding: 30px;
+    border-radius:10px;
+}
+
+h3 {
+    background-color: rgba(147, 147, 147, 0.908);
+    border: 3px solid #ffbb27;
+    border-radius: 10px;
+    padding: 20px;
+    align-items: center;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.accordion {
+    --bs-accordion-btn-bg: tomato;
+    --bs-accordion-color: black;
+    --bs-accordion-border-width: none;
+    --bs-accordion-bg: #ffbb27;
+    --bs-accordion-active-bg: rgb(243, 60, 27);
+    --bs-accordion-active-color: rgb(255, 255, 255);
+    --bs-accordion-btn-focus-box-shadow: none;
+    --bs-accordion-btn-focus-border-color: black;
+}
+
+.accordion-button:not(.collapsed) {
+    box-shadow: none;
+}
+
+.accordion-button {
+    border-top: solid 1px black;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}

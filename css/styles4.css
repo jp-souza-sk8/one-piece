@@ -1,0 +1,78 @@
+/* styles do adaptações */
+
+body {
+    text-align: center;
+    background-color: #2f2f2f;
+}
+
+.navbar {
+    background-color: tomato;
+}
+
+.nav-link:hover {
+    color: tomato;
+    font-size: large;
+}
+
+.offcanvas {
+    background-color: rgba(147, 147, 147, 0.908);;
+}
+
+.offcanvas-header {
+    background-color: tomato;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    padding: 30px;
+    border-radius:10px;
+}
+
+h3 {
+    background-color: rgba(147, 147, 147, 0.908);
+    border: 3px solid #ffbb27;
+    border-radius: 10px;
+    padding: 20px;
+    align-items: center;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.btn {
+    background-color: tomato;
+    color: black;
+    box-shadow: 2px;
+}
+
+hr {
+    color: white;
+}
+
+.btn:hover {
+    background-color: rgb(243, 60, 27);
+    color: white;
+    box-shadow: 2px;
+}
+
+.card {
+    border: solid 2px black;
+}
+
+.card-header {  
+    background-color: tomato;
+}
+
+.card-body {
+    background-color: #2f2f2f;
+}
+
+.card-footer {
+    background-color: #ffbb27;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}

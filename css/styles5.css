@@ -1,0 +1,87 @@
+/* styles do dubladores */
+
+body {
+    text-align: center;
+    background-color: #2f2f2f;
+}
+
+.navbar {
+    background-color: tomato;
+}
+
+.nav-link:hover {
+    color: tomato;
+    font-size: large;
+}
+
+.offcanvas {
+    background-color: rgba(147, 147, 147, 0.908);;
+}
+
+.offcanvas-header {
+    background-color: tomato;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    padding: 30px;
+    border: #101010;
+    border-radius:10px;
+}
+
+h3 {
+    background-color: rgba(147, 147, 147, 0.908);
+    border: 3px solid #ffbb27;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#imagem {
+    border-radius: 10px;
+    max-width: 370px;
+    max-height: 370px;
+}
+
+.card {
+    border: solid 2px black;
+}
+
+.card-header {  
+    background-color: tomato;
+}
+
+.card-body {
+    background-color: #2f2f2f;
+}
+
+.card-footer {
+    background-color: #ffbb27;
+}
+
+.modal-header {
+    background-color: tomato;
+}
+
+.btn {
+    background-color: #2f2f2f;
+    color: white;
+}
+
+.btn:hover{
+    background-color: black;
+    color: white;
+}
+
+.modal-body {
+    background-color: #2f2f2f;
+    color: white;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
