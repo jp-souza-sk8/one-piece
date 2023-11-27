@@ -5,6 +5,10 @@ body {
     background-color: #2f2f2f;
 }
 
+.navbar {
+    background-color: tomato;
+}
+
 .nav-link:hover {
     color: tomato;
     font-size: large;
